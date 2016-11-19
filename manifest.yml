@@ -1,6 +1,6 @@
 ---
 applications:
-- name: mychat
+- name: mychat-1479542393445
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
